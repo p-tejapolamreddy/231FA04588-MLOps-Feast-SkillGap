@@ -1,0 +1,201 @@
+skill_id,skill,curriculum_score,industry_score,curriculum_type,industry_demand,source_type
+S001,Python,85,62,Workshop,Very High,Job Analysis
+S002,Java,46,72,Lab,Medium,Industry Survey
+S003,C++,60,69,Workshop,Very High,Job Analysis
+S004,C,53,61,Workshop,High,Curriculum Review
+S005,JavaScript,88,89,Core Course,Very High,Industry Survey
+S006,TypeScript,50,92,Workshop,Very High,Job Analysis
+S007,SQL,72,57,Lab,Very High,Curriculum Review
+S008,NoSQL,46,60,Core Course,Medium,Curriculum Review
+S009,Machine Learning,58,69,Elective,Very High,Job Analysis
+S010,Deep Learning,77,93,Lab,Very High,Industry Survey
+S011,Data Science,46,90,Core Course,High,Expert Review
+S012,Data Analytics,57,96,Core Course,Medium,Curriculum Review
+S013,Statistics,89,89,Workshop,High,Curriculum Review
+S014,Natural Language Processing,71,69,Elective,Very High,Job Analysis
+S015,LLM Applications,73,92,Lab,Medium,Expert Review
+S016,Generative AI,62,55,Lab,High,Expert Review
+S017,Computer Vision,93,65,Workshop,Very High,Expert Review
+S018,Reinforcement Learning,89,82,Elective,Low,Job Analysis
+S019,Cloud Computing,66,72,Lab,High,Industry Survey
+S020,AWS,54,68,Elective,Medium,Curriculum Review
+S021,Microsoft Azure,93,76,Lab,High,Job Analysis
+S022,Google Cloud,51,60,Workshop,High,Expert Review
+S023,Docker,69,61,Project,High,Curriculum Review
+S024,Kubernetes,67,77,Lab,Low,Curriculum Review
+S025,Terraform,83,71,Core Course,Medium,Expert Review
+S026,Git,47,84,Core Course,Medium,Expert Review
+S027,GitHub,79,62,Project,Medium,Curriculum Review
+S028,CI CD,69,60,Lab,Very High,Curriculum Review
+S029,React,80,73,Core Course,Medium,Industry Survey
+S030,Angular,85,94,Core Course,Medium,Industry Survey
+S031,Vue.js,68,91,Lab,Low,Job Analysis
+S032,NodeJS,57,59,Elective,Very High,Curriculum Review
+S033,ExpressJS,47,97,Lab,Very High,Industry Survey
+S034,Django,59,73,Elective,High,Curriculum Review
+S035,Flask,50,69,Project,Very High,Expert Review
+S036,FastAPI,51,79,Workshop,Very High,Industry Survey
+S037,HTML,62,84,Project,Low,Expert Review
+S038,CSS,85,78,Workshop,Medium,Expert Review
+S039,Tailwind CSS,55,78,Core Course,Very High,Expert Review
+S040,UI UX,67,68,Core Course,Very High,Job Analysis
+S041,Power BI,87,72,Core Course,Low,Expert Review
+S042,Tableau,89,98,Elective,Very High,Job Analysis
+S043,Apache Spark,86,59,Workshop,Very High,Curriculum Review
+S044,Hadoop,83,95,Core Course,Low,Curriculum Review
+S045,Kafka,55,89,Lab,High,Industry Survey
+S046,Airflow,91,70,Workshop,High,Industry Survey
+S047,Databricks,55,84,Workshop,Very High,Job Analysis
+S048,Snowflake,69,72,Elective,Very High,Curriculum Review
+S049,ETL,85,90,Project,Medium,Industry Survey
+S050,Data Warehousing,59,98,Elective,Very High,Industry Survey
+S051,Cyber Security,65,58,Core Course,Medium,Industry Survey
+S052,Network Security,59,57,Lab,High,Curriculum Review
+S053,Ethical Hacking,65,80,Lab,Very High,Industry Survey
+S054,Cryptography,62,59,Core Course,Very High,Curriculum Review
+S055,Computer Networks,58,91,Lab,Low,Expert Review
+S056,Operating Systems,90,75,Elective,Very High,Expert Review
+S057,DBMS,58,96,Elective,High,Expert Review
+S058,Software Engineering,76,80,Core Course,Very High,Job Analysis
+S059,DevOps,86,84,Lab,Medium,Curriculum Review
+S060,MLOps,54,71,Workshop,Very High,Industry Survey
+S061,Mobile Development,53,70,Project,Medium,Job Analysis
+S062,Android,92,90,Workshop,Low,Job Analysis
+S063,iOS,79,71,Elective,Very High,Expert Review
+S064,Flutter,92,92,Elective,Low,Curriculum Review
+S065,Blockchain,72,92,Elective,Low,Industry Survey
+S066,IoT,70,78,Elective,Very High,Job Analysis
+S067,Embedded Systems,59,63,Project,Medium,Industry Survey
+S068,System Design,77,86,Core Course,Very High,Expert Review
+S069,Algorithms,50,58,Elective,Medium,Curriculum Review
+S070,Data Structures,52,64,Lab,Low,Industry Survey
+S071,Cloud Security,85,65,Project,High,Industry Survey
+S072,API Development,95,98,Elective,Very High,Job Analysis
+S073,Microservices,72,93,Lab,High,Industry Survey
+S074,Agile,49,79,Elective,Medium,Curriculum Review
+S075,Testing,69,93,Core Course,Very High,Curriculum Review
+S076,Selenium,74,88,Project,High,Industry Survey
+S077,Jenkins,61,90,Core Course,High,Job Analysis
+S078,Linux,45,98,Project,Very High,Job Analysis
+S079,Python,91,62,Elective,High,Expert Review
+S080,Java,88,89,Elective,Very High,Curriculum Review
+S081,C++,93,72,Project,High,Expert Review
+S082,C,94,96,Lab,Low,Job Analysis
+S083,JavaScript,66,62,Lab,Very High,Expert Review
+S084,TypeScript,63,82,Elective,Low,Job Analysis
+S085,SQL,55,84,Elective,Low,Expert Review
+S086,NoSQL,45,71,Core Course,High,Expert Review
+S087,Machine Learning,77,66,Elective,Medium,Curriculum Review
+S088,Deep Learning,77,61,Project,Low,Curriculum Review
+S089,Data Science,85,74,Lab,Low,Expert Review
+S090,Data Analytics,85,87,Lab,Low,Job Analysis
+S091,Statistics,83,67,Core Course,Medium,Job Analysis
+S092,Natural Language Processing,54,78,Lab,Medium,Curriculum Review
+S093,LLM Applications,93,65,Lab,Low,Curriculum Review
+S094,Generative AI,79,88,Workshop,Medium,Industry Survey
+S095,Computer Vision,45,93,Project,Medium,Curriculum Review
+S096,Reinforcement Learning,65,86,Workshop,Medium,Job Analysis
+S097,Cloud Computing,46,62,Lab,Very High,Curriculum Review
+S098,AWS,68,74,Core Course,Low,Industry Survey
+S099,Microsoft Azure,60,58,Core Course,Medium,Expert Review
+S100,Google Cloud,60,91,Lab,Very High,Expert Review
+S101,Docker,50,60,Elective,High,Job Analysis
+S102,Kubernetes,91,86,Workshop,High,Industry Survey
+S103,Terraform,49,89,Lab,Medium,Expert Review
+S104,Git,94,63,Core Course,Low,Expert Review
+S105,GitHub,53,97,Core Course,Medium,Curriculum Review
+S106,CI CD,75,90,Workshop,High,Expert Review
+S107,React,55,71,Project,Low,Job Analysis
+S108,Angular,78,93,Lab,Low,Expert Review
+S109,Vue.js,72,68,Lab,High,Job Analysis
+S110,NodeJS,79,67,Project,Very High,Job Analysis
+S111,ExpressJS,90,74,Workshop,Very High,Curriculum Review
+S112,Django,70,97,Workshop,Medium,Industry Survey
+S113,Flask,86,78,Core Course,Low,Job Analysis
+S114,FastAPI,73,88,Project,Medium,Expert Review
+S115,HTML,73,62,Workshop,Low,Expert Review
+S116,CSS,60,69,Elective,High,Job Analysis
+S117,Tailwind CSS,49,76,Lab,Low,Expert Review
+S118,UI UX,46,92,Core Course,Low,Curriculum Review
+S119,Power BI,80,69,Project,High,Expert Review
+S120,Tableau,82,69,Core Course,Very High,Curriculum Review
+S121,Apache Spark,45,59,Workshop,High,Job Analysis
+S122,Hadoop,90,95,Workshop,Low,Job Analysis
+S123,Kafka,48,69,Elective,High,Job Analysis
+S124,Airflow,49,57,Lab,Low,Curriculum Review
+S125,Databricks,66,59,Project,Very High,Expert Review
+S126,Snowflake,77,70,Core Course,Very High,Curriculum Review
+S127,ETL,62,97,Lab,Low,Expert Review
+S128,Data Warehousing,76,68,Workshop,Very High,Expert Review
+S129,Cyber Security,79,63,Lab,High,Curriculum Review
+S130,Network Security,91,91,Core Course,Very High,Industry Survey
+S131,Ethical Hacking,81,85,Lab,Medium,Job Analysis
+S132,Cryptography,60,85,Workshop,Very High,Expert Review
+S133,Computer Networks,71,67,Lab,Medium,Expert Review
+S134,Operating Systems,51,61,Project,High,Curriculum Review
+S135,DBMS,87,82,Lab,Very High,Industry Survey
+S136,Software Engineering,67,82,Project,Very High,Job Analysis
+S137,DevOps,71,84,Lab,Very High,Industry Survey
+S138,MLOps,91,58,Workshop,High,Job Analysis
+S139,Mobile Development,88,96,Elective,High,Expert Review
+S140,Android,86,61,Elective,Medium,Expert Review
+S141,iOS,48,80,Project,Low,Curriculum Review
+S142,Flutter,91,76,Project,High,Curriculum Review
+S143,Blockchain,51,70,Elective,Very High,Industry Survey
+S144,IoT,57,67,Workshop,Medium,Industry Survey
+S145,Embedded Systems,79,83,Workshop,Very High,Job Analysis
+S146,System Design,53,82,Lab,Very High,Curriculum Review
+S147,Algorithms,56,72,Project,High,Expert Review
+S148,Data Structures,74,70,Workshop,Low,Curriculum Review
+S149,Cloud Security,49,83,Core Course,Very High,Industry Survey
+S150,API Development,80,61,Lab,High,Curriculum Review
+S151,Microservices,48,96,Lab,Medium,Expert Review
+S152,Agile,79,55,Elective,Very High,Curriculum Review
+S153,Testing,50,70,Project,Medium,Industry Survey
+S154,Selenium,55,81,Workshop,High,Expert Review
+S155,Jenkins,76,85,Workshop,High,Job Analysis
+S156,Linux,58,80,Lab,High,Job Analysis
+S157,Python,48,65,Project,High,Expert Review
+S158,Java,69,55,Project,High,Expert Review
+S159,C++,69,71,Project,Low,Expert Review
+S160,C,95,84,Elective,Medium,Industry Survey
+S161,JavaScript,63,82,Workshop,Low,Expert Review
+S162,TypeScript,89,90,Project,Medium,Industry Survey
+S163,SQL,87,86,Elective,Very High,Expert Review
+S164,NoSQL,54,67,Core Course,Very High,Industry Survey
+S165,Machine Learning,63,68,Lab,Medium,Industry Survey
+S166,Deep Learning,48,92,Workshop,Very High,Curriculum Review
+S167,Data Science,92,89,Workshop,Very High,Job Analysis
+S168,Data Analytics,48,75,Lab,Very High,Expert Review
+S169,Statistics,48,58,Core Course,Low,Job Analysis
+S170,Natural Language Processing,82,85,Elective,Low,Job Analysis
+S171,LLM Applications,77,88,Lab,High,Curriculum Review
+S172,Generative AI,55,58,Elective,Medium,Job Analysis
+S173,Computer Vision,77,60,Elective,Very High,Job Analysis
+S174,Reinforcement Learning,56,59,Elective,Medium,Expert Review
+S175,Cloud Computing,83,59,Core Course,High,Industry Survey
+S176,AWS,88,70,Core Course,High,Expert Review
+S177,Microsoft Azure,70,62,Elective,Very High,Expert Review
+S178,Google Cloud,81,70,Project,High,Job Analysis
+S179,Docker,82,93,Workshop,Very High,Job Analysis
+S180,Kubernetes,47,94,Core Course,High,Expert Review
+S181,Terraform,50,81,Project,High,Expert Review
+S182,Git,87,92,Project,Very High,Job Analysis
+S183,GitHub,81,88,Workshop,High,Industry Survey
+S184,CI CD,65,71,Elective,High,Industry Survey
+S185,React,58,97,Project,High,Expert Review
+S186,Angular,90,75,Project,Medium,Industry Survey
+S187,Vue.js,60,71,Project,Low,Expert Review
+S188,NodeJS,70,63,Elective,Medium,Curriculum Review
+S189,ExpressJS,87,96,Elective,High,Job Analysis
+S190,Django,64,84,Core Course,Low,Expert Review
+S191,Flask,65,59,Core Course,Medium,Expert Review
+S192,FastAPI,45,84,Project,Medium,Expert Review
+S193,HTML,84,91,Elective,Medium,Industry Survey
+S194,CSS,51,59,Elective,Very High,Expert Review
+S195,Tailwind CSS,79,68,Workshop,High,Curriculum Review
+S196,UI UX,77,71,Project,High,Industry Survey
+S197,Power BI,53,77,Core Course,Low,Job Analysis
+S198,Tableau,49,70,Workshop,Medium,Curriculum Review
+S199,Apache Spark,68,73,Elective,High,Expert Review
+S200,Hadoop,55,83,Core Course,Medium,Curriculum Review
