@@ -149,7 +149,7 @@ Historical features were successfully retrieved using Feast.
 
 **Model Accuracy:** 100.0 %
 
-###<img width="818" height="63" alt="image" src="https://github.com/user-attachments/assets/1bdc70d1-a71a-4181-8ebb-b11c9e825009" />###
+<img width="818" height="63" alt="image" src="https://github.com/user-attachments/assets/1bdc70d1-a71a-4181-8ebb-b11c9e825009" />
 
 ### Online Feature Output
 
