@@ -1,10 +1,10 @@
-# Curriculum-Industry Skill Gap Feature Store Using Feast
+<img width="818" height="63" alt="image" src="https://github.com/user-attachments/assets/1bdc70d1-a71a-4181-8ebb-b11c9e825009" /># Curriculum-Industry Skill Gap Feature Store Using Feast
 
 ## Student Details
 
 **Name:** Tejaswini  
 **Register Number:** 231FA04588  
-**Section:** YOUR_SECTION  
+**Section:** 03 
 
 ## Project Description
 
@@ -148,7 +148,7 @@ Historical features were successfully retrieved using Feast.
 
 ### Model Accuracy
 
-**Model Accuracy:** YOUR_ACCURACY%
+**Model Accuracy:** 100.0 %
 
 ### Online Feature Output
 
